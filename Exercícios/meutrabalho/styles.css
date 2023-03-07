@@ -1,0 +1,42 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-color: white;
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 25px;
+    border: 2px solid red;
+}
+h1 {
+    background-color: black;
+    color: blueviolet;
+    padding: 30px;
+    font-size: 60px;
+}
+h2, h4 {
+    background-color: white;
+    color: black;
+    font-size: 30px;
+}
+p {
+    background-color: white;
+    color: rgb(39, 39, 39);
+}
+input {
+    font-size: 20px;
+}
+footer {
+    font-size: 15px;
+}
+div {
+    text-align: center;
+    background-size: cover
+}
+div {
+    text-align: center;
+}

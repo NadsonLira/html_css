@@ -1,0 +1,21 @@
+body {
+    background-color: white
+    color: rgb(106, 15, 226);
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: Arial;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    font-size: 50px;
+    background-color: orange;
+    color: black;
+    margin: 10px;
+    padding: 30px;
+}
