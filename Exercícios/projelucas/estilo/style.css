@@ -5,9 +5,9 @@
     padding: 0px;
 }
 
+/*background-image: linear-gradient(to bottom, #5caf7f, #95bfb9, #F2F2F2,  #2ee4a7);*/
 body{
-    background-image: linear-gradient(to bottom, #5caf7f, #95bfb9, #F2F2F2,  #2ee4a7);
-    
+    border: 1px;
 }
 
 header{
